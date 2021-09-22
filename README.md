@@ -1,24 +1,12 @@
-# test_lists
+# tasks_lists
 
-## Project setup
-```
-npm install
-```
+1. Склонировать проект `git clone ссылка на репозиторий`
+2. Перейти в папку с проектом 
+3. Установить зависимости `npm install`  
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
+### Запуск сервера в режиме сборки
 npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Запуск сервера в режиме разработки
+npm run serve
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
